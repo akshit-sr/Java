@@ -22,7 +22,7 @@ public class Nesting_Butterfly_Pattern {
 
             for(int j = 1; j <= (rows-i) ; j++)     // Inverted of Above
             {
-                System.out.print("  ");
+                System.out.print("  ");            // Make sure to leave 2 spaces.
             }
             for(int j = 1; j <= i; j++){
                 System.out.print(symbol);
@@ -38,7 +38,7 @@ public class Nesting_Butterfly_Pattern {
 
             for(int j = (rows-i); j >= 1 ; j--)     // Inverted of Above
             {
-                System.out.print("  ");
+                System.out.print("  ");            // Make sure to leave 2 spaces.
             }
             for(int j = i; j >= 1; j--){
                 System.out.print(symbol);
