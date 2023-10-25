@@ -12,8 +12,10 @@ public class GUI {
         double height = Double.parseDouble(JOptionPane.showInputDialog("Enter your height (in cm):"));      //Double.parseDouble(code);
         JOptionPane.showMessageDialog(null, "You are "+height+" cm.");
 
-        JOptionPane.showMessageDialog(null, "Thank you for the info!");
+        int weight = Integer.parseInt(JOptionPane.showInputDialog("Enter your age (in kg)"));
+        JOptionPane.showMessageDialog(null, "You are "+weight+" kg!");
 
+        JOptionPane.showMessageDialog(null, "Name: "+name +"\n"+ "Age: "+age+"\n"+"Height: "+height+" cm"+"\n"+"Weight: "+weight+" Kg"+"\n"+"\n"+"Thank you for the info!");
         // etc...
     }
 
