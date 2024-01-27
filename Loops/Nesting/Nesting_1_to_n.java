@@ -16,5 +16,7 @@ public class Nesting_1_to_n {
             }
             System.out.println();
         }
+
+        sc.close();
     }
 }
