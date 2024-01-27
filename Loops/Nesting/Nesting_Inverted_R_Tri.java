@@ -24,5 +24,7 @@ public class Nesting_Inverted_R_Tri {
             }
             System.out.println();
         }
+
+        sc.close();
     }
 }
