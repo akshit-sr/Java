@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Nested_R_Triangle {
+public class Nested_Triangle {
     public static void main(String[]args){
         Scanner sc = new Scanner(System.in);
 
