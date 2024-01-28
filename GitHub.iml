@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Arrays File" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/C like statement with final" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Constructor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DiceProg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GUI" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Inheritance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Linear_Search" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Loops" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Method" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OOP" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Object_Passing" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Overloaded" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Palindrome" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Static topic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
