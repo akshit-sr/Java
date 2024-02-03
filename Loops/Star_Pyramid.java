@@ -1,4 +1,3 @@
-package Nested_Loops;
 
 import java.util.Scanner;
 
