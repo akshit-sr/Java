@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Palindrome/|DiceProg/|Loops/Nesting/|Static topic/|Method/|String/|C like statement with final/|Arrays File/|Linear_Search/|DSA/Linear_Binary/|Loops/|Object_Passing/|OOP/|Overloaded/|GUI/|DSA/Array/|Constructor/|Inheritance/" kind="src" path=""/>
+	<classpathentry kind="src" path="Arrays File"/>
+	<classpathentry kind="src" path="C like statement with final"/>
+	<classpathentry kind="src" path="Constructor"/>
+	<classpathentry kind="src" path="DiceProg"/>
+	<classpathentry kind="src" path="DSA/Array"/>
+	<classpathentry kind="src" path="DSA/Linear_Binary"/>
+	<classpathentry kind="src" path="GUI"/>
+	<classpathentry kind="src" path="Inheritance"/>
+	<classpathentry kind="src" path="Linear_Search"/>
+	<classpathentry excluding="Nesting/" kind="src" path="Loops"/>
+	<classpathentry kind="src" path="Loops/Nesting"/>
+	<classpathentry kind="src" path="Method"/>
+	<classpathentry kind="src" path="Object_Passing"/>
+	<classpathentry kind="src" path="OOP"/>
+	<classpathentry kind="src" path="Overloaded"/>
+	<classpathentry kind="src" path="Palindrome"/>
+	<classpathentry kind="src" path="Static topic"/>
+	<classpathentry kind="src" path="String"/>
+	<classpathentry kind="output" path="out/production/GitHub"/>
+</classpath>
